@@ -12,7 +12,7 @@
 /build
 
 #
-/auth.config.js
+auth.config.js
 
 # misc
 .DS_Store

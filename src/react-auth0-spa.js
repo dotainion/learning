@@ -17,3 +17,4 @@ export const Auth0Provider = ({
     const [popupOpen, setPopupOpen] = useState(false);
 };
 
+
