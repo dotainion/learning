@@ -13,7 +13,7 @@ export const Auth0Provider = ({
     const [isAuthenticated, setIsAuthenticated] = useState();
     const [user, setUser] = useState();
     const [auth0Client, setAuth0] = useState();
-    const [loading, setPopupOpen] = useState(true);
+    const [loading, setLoading] = useState(true);
     const [popupOpen, setPopupOpen] = useState(false);
 
     useEffect(()=>{
